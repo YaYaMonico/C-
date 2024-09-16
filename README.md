@@ -1,2 +1,2 @@
 # C-
-Repositórios de atividades do curso de C# COMPLETO Programação Orientada a Objetos + Projetos
+Repositórios de atividades do curso de C# Programação Orientada a Objetos + Projetos
